@@ -6,6 +6,6 @@ Libreria utilizada en el ejemplo: Toast UI
 
 <h1 align="center">Visualización</h1>
 
-<p align="center">
-  <img align="center" alt="Coding" src="https://i.postimg.cc/6qZvPMt6/Simulator-Screen-Shot-i-Phone-11-2022-08-07-at-19-00-36-iphone12black-portrait.png"> 
-</p>
+<img align="left" alt="Coding" src="https://i.postimg.cc/gj41hHLs/Simulator-Screen-Shot-i-Phone-11-2022-08-07-at-20-04-19-iphone12black-portrait.png"> 
+
+<img align="right" alt="Coding" src="https://i.postimg.cc/NGx3ZBCX/Simulator-Screen-Shot-i-Phone-11-2022-08-07-at-20-04-37-iphone12black-portrait.png"> 
